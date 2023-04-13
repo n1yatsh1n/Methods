@@ -1,0 +1,6 @@
+C:\Users\79994\Desktop\array\array\bin\Debug\array.dll
+C:\Users\79994\Desktop\array\array\bin\Debug\array.pdb
+C:\Users\79994\Desktop\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\Users\79994\Desktop\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\Users\79994\Desktop\array\array\obj\Debug\array.dll
+C:\Users\79994\Desktop\array\array\obj\Debug\array.pdb
