@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Laboratory\№14\HashTableProgram\HashTableProgram\bin\Debug\HashTableProgram.dll
+C:\Users\User\Desktop\Laboratory\№14\HashTableProgram\HashTableProgram\bin\Debug\HashTableProgram.pdb
+C:\Users\User\Desktop\Laboratory\№14\HashTableProgram\HashTableProgram\obj\Debug\HashTableProgram.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Laboratory\№14\HashTableProgram\HashTableProgram\obj\Debug\HashTableProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Laboratory\№14\HashTableProgram\HashTableProgram\obj\Debug\HashTableProgram.dll
+C:\Users\User\Desktop\Laboratory\№14\HashTableProgram\HashTableProgram\obj\Debug\HashTableProgram.pdb
