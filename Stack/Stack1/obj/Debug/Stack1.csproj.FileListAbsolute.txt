@@ -1,6 +1,0 @@
-C:\Users\79994\Desktop\Stack\Stack1\bin\Debug\Stack1.dll
-C:\Users\79994\Desktop\Stack\Stack1\bin\Debug\Stack1.pdb
-C:\Users\79994\Desktop\Stack\Stack1\obj\Debug\Stack1.csproj.AssemblyReference.cache
-C:\Users\79994\Desktop\Stack\Stack1\obj\Debug\Stack1.csproj.CoreCompileInputs.cache
-C:\Users\79994\Desktop\Stack\Stack1\obj\Debug\Stack1.dll
-C:\Users\79994\Desktop\Stack\Stack1\obj\Debug\Stack1.pdb
